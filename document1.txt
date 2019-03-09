@@ -2,3 +2,4 @@ here my first file to learn git
 here a change made in github (it is as such someone had change it external from me)
 here I add a line from the master branch (so it should not be in the develop until I merge master (from develop)
 here I fixed the issue discovered in production. I will use the hotfix branch to fix master, and test it before merging with master and release it in PRD
+this line is added in develop branch
